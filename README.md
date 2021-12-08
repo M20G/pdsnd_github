@@ -15,3 +15,6 @@ washington.csv
 
 ### Credits
 I didn't use any further material, because my awesome Udacity teachers taught me everything :)
+
+### Additional information
+Sorry, there is no additional information. I just wrote that, because I needed to change the file for an additional commit.
